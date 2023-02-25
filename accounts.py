@@ -1,11 +1,5 @@
 
-'''''
 
-
-Kiran Santhosh Parakkal
-
-Student Id:201665230
-'''''
 from random import randint
 from datetime import date
 issued_CardNo=[] #List that stores the whole info of all card Number issued by bank(used inorder to prevent card number duplicates )
